@@ -1,6 +1,6 @@
 ### Salut Simplonotes ! ###  
 
-Je m'apelle **Félix** et je suis *Webdesigner/Graphiste*.  
+Je m'apelle Félix et je suis **Webdesigner/Graphiste**.  
 Je me suis dirigé vers cette formation afin d'avoir une connaissance plus complète du Web-développement. Cette formation, je l'espère, me permettra de dynamiser mon CV et d'apporter une nouvelle corde à mon arc.  
 
 ### Qui suis-je ? ###
@@ -11,7 +11,7 @@ Chose à laquelle je compte bien parlier durant ces 6 prochains mois !
 
 ### Pourquoi Simplon ? ###
 
-Je me suis intéréssé à Simplon car cette formation est le fruit d'un collaboration avec [Openclassrooms](https://openclassrooms.com). Un site de tutos vraiment super !
+Je me suis intéréssé à *Simplon* car cette formation est le fruit d'un collaboration avec [Openclassrooms](https://openclassrooms.com). Un site de tutos vraiment super !
 De plus, je ne vais pas vous le cacher, le prix de la formation m'a aussi motivé !
 
 --------------------------------------
