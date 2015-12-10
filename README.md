@@ -1,4 +1,4 @@
-### Salut Simplonotes ! ###  
+### Salut Simplonotes ! ###
 
 Je m'apelle Félix et je suis **Webdesigner/Graphiste**.  
 Je me suis dirigé vers cette formation afin d'avoir une connaissance plus complète du Web-développement. Cette formation, je l'espère, me permettra de dynamiser mon CV et d'apporter une nouvelle corde à mon arc.  
